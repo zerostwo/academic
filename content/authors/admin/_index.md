@@ -14,18 +14,24 @@ interests:
   - Anime
   - Schnauzer
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/duansongqi1999
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Songqi_Duan
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=cio27iwAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/zerostwo
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Songqi_Duan
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/duansongqi1999
+  - icon_pack: fab
+    icon: zhihu
+    link: https://www.zhihu.com/people/zerostwo
+  - icon: weibo
+    link: https://weibo.com/3764641951
+    icon_pack: fab
 education:
   courses:
     - course: B.E. in Food Science and Engineering
