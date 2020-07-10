@@ -4,7 +4,7 @@ role: Student
 avatar_filename: duansq.png
 organizations:
   - name: Sichuan Agricultural University
-    url: "https://english.sicau.edu.cn/"
+    url: https://english.sicau.edu.cn/
 superuser: true
 authors:
   - admin
@@ -31,7 +31,7 @@ education:
     - course: B.E. in Food Science and Engineering
       institution: Sichuan Agricultural University
       year: 2017 - Present
-email: "songqi.duan@outlook.com"
+email: songqi.duan@outlook.com
 user_groups:
   - Researchers
   - Visitors
