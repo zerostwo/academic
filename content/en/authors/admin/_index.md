@@ -41,6 +41,7 @@ email: songqi.duan@outlook.com
 user_groups:
   - Researchers
   - Visitors
+  - admin
 ---
 
 My name is Songqi Duan and I love mathematics and computer science. I plan to become a researcher in the future, and I am still an undergraduate (entered in September 2017). profession. After entering university, I discovered the direction of bioinformatics. When I saw her at first glance, I knew that I could not leave her in the future. As the saying goes, a bioinformatics learner who can’t program is not a good food man, so I started my long self-study in bioinformatics.
