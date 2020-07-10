@@ -1,6 +1,6 @@
 ---
 title: Songqi Duan
-role: Student
+role: Student in Food Science and Engineering
 avatar_filename: duansq.png
 organizations:
   - name: Sichuan Agricultural University
@@ -14,9 +14,6 @@ interests:
   - Anime
   - Schnauzer
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "#contact"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/duansongqi1999
@@ -26,6 +23,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/zerostwo
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Songqi_Duan
 education:
   courses:
     - course: B.E. in Food Science and Engineering
