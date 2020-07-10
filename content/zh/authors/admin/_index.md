@@ -36,7 +36,7 @@ education:
   courses:
     - course: 食品科学与工程专业
       institution: 四川农业大学
-      year: 4
+      year: 2017 - 至今
 email: songqi.duan@outlook.com
 user_groups:
   - Researchers

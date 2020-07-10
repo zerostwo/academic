@@ -36,7 +36,7 @@ education:
   courses:
     - course: B.E. in Food Science and Engineering
       institution: Sichuan Agricultural University
-      year: 4
+      year: 2017 - Present
 email: songqi.duan@outlook.com
 user_groups:
   - Researchers
