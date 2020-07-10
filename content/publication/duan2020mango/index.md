@@ -3,7 +3,7 @@ title = "芒果废弃物降解菌的筛选及香菇混菌发酵条件优化"
 date = 2020-01-06T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["段小雨", "段松岐","张蕙兰","李诚","刘爱平","杨文久","董毓平","刘韫滔"]
+authors = ["Xiaoyu Duan", "Songqi Duan","Huilan Zhang","Cheng Li","Aiping Liu","Wenjiu Yang","Liuping Dong","Yuntao Liu"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
