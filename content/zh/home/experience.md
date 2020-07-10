@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "经历"
 subtitle = ""
 
 # Date format for experience
@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "B.E."
-  company = "Sichuan Agricultural University"
-  company_url = "https://english.sicau.edu.cn/"
-  location = "Ya'an"
+  title = "工学学士"
+  company = "四川农业大学"
+  company_url = "https://www.sicau.edu.cn/"
+  location = "雅安"
   date_start = "2017-09-01"
   date_end = ""
-  description = """Systematic study of food science and engineering related knowledge, and enter the research group to engage in edible fungus polysaccharide related research."""
+  description = """系统的学习食品科学与工程专业知识相关知识，并进入课题组从事食用菌多糖相关研究。"""
 +++

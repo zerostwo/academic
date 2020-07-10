@@ -1,18 +1,18 @@
 ---
-title: Songqi Duan
-role: Student in Food Science and Engineering
+title: 段松岐
+role: 食品科学与工程专业学生
 avatar_filename: avatar.png
 organizations:
-  - name: Sichuan Agricultural University
-    url: https://english.sicau.edu.cn/
+  - name: 四川农业大学
+    url: https://www.sicau.edu.cn/
 superuser: true
 authors:
   - admin
-bio: My research interests include bioinformatics analysis.
+bio: 我的研究兴趣包括生物信息学分析。
 interests:
-  - Bioinformatics Analysis
-  - Anime
-  - Schnauzer
+  - 生物信息学分析
+  - 动漫
+  - 雪纳瑞
 social:
   - icon: researchgate
     icon_pack: ai
@@ -34,8 +34,8 @@ social:
     icon_pack: fab
 education:
   courses:
-    - course: B.E. in Food Science and Engineering
-      institution: Sichuan Agricultural University
+    - course: 食品科学与工程专业
+      institution: 四川农业大学
       year: 4
 email: songqi.duan@outlook.com
 user_groups:
@@ -43,6 +43,6 @@ user_groups:
   - Visitors
 ---
 
-My name is Songqi Duan and I love mathematics and computer science. I plan to become a researcher in the future, and I am still an undergraduate (entered in September 2017). profession. After entering university, I discovered the direction of bioinformatics. When I saw her at first glance, I knew that I could not leave her in the future. As the saying goes, a bioinformatics learner who can’t program is not a good food man, so I started my long self-study in bioinformatics.
+我叫段松岐（Songqi Duan）热爱数学和计算机科学，未来打算成为一名科研工作者，目前还是一名本科生（2017年9月入学）。然而由于不可抗力，本科的我选择了食品科学与工程这个专业。进入大学后，发现了生物信息学这个方向，我看到她的第一眼，我就知道我以后离不开她。俗（xia）话（Che）说（de）不会编程的生物信息学习者不是一名好的食品人，因此我就开始了我漫长的生物信息学自学之路。
 
-I have seen a sentence: The so-called university is actually a place to exercise your self-study ability. This is indeed the case. Perhaps after graduation, the place where professional knowledge is available is limited, but the self-study ability exercised through the four years of undergraduate will allow you to show your skills anywhere. I admire the people who silently contributed behind the articles I saw on the Internet during my self-study. They shared what they learned to good scholars. So I want to share what I have learned with you.
+我看到过一句话：所谓大学，其实就是锻炼你自学能力的地方。确实是这样，或许毕业之后，专业知识可用的地方具有局限性，但是通过本科四年下来锻炼的自学能力能让你在任何地方都大展身手。我很欣赏在我自学过程中在网络上看到的那些文章背后默默奉献的人们，他们分享了自己所学给好学者。因此我也要将我所学分享给大家。

@@ -12,8 +12,8 @@
   languageCode = "zh-Hans"
   contentDir = "content/zh"
   #title = "Chinese website title..."
-  #[zh.params]
-  #  description = "Site description in Chinese..."
+  [zh.params]
+    description = "段松岐的个人学术网站。"
   #[[zh.menu.main]]
   #  name = "Wo"
   #  url = "#about"
