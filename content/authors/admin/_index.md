@@ -1,7 +1,7 @@
 ---
 title: Songqi Duan
 role: Student in Food Science and Engineering
-avatar_filename: duansq.png
+avatar_filename: avatar.png
 organizations:
   - name: Sichuan Agricultural University
     url: https://english.sicau.edu.cn/
