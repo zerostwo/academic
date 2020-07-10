@@ -1,7 +1,7 @@
 ---
 title: Songqi Duan
 role: Student
-avatar_filename: 九月.png
+avatar_filename: duansq.png
 organizations:
   - name: Sichuan Agricultural University
     url: "https://english.sicau.edu.cn/"
