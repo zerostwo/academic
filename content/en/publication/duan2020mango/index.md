@@ -1,9 +1,9 @@
 +++
-title = "芒果废弃物降解菌的筛选及香菇混菌发酵条件优化"
+title = "Screening of Mango Waste Degrading Bacteria and Optimization of Fermentation Conditions of Lentinus Edodes Mixed Bacteria"
 date = 2020-01-06T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["段小雨", "段松岐","张蕙兰","李诚","刘爱平","杨文久","董毓平","刘韫滔"]
+authors = ["Xiaoyu Duan", "Songqi Duan","Huilan Zhang","Cheng Li","Aiping Liu","Wenjiu Yang","Yuping Dong","Yuntao Liu"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -18,11 +18,11 @@ authors = ["段小雨", "段松岐","张蕙兰","李诚","刘爱平","杨文久"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "四川农业大学学报"
-publication_short = "四川农业大学学报"
+publication = "Journal of Sichuan Agricultural University"
+publication_short = "Journal of Sichuan Agricultural University"
 
 # Abstract.
-abstract = "【目的】为提高我国芒果加工产品利用率，同时为农业发展提供新原料，使芒果废弃物得到资源化利用。【方法】利用选择培养基从芒果废弃物中筛选出一株具有高效降解纤维素能力的菌株L-1，以纤维素降解率、糖化率为响应值，通过单因素和正交试验对其与木质素降解菌（MF687854）混菌发酵条件进行优化，并对发酵产物中蛋白质含量和氨基酸成分进行分析。【结果】通过形态学及分子生物学鉴定该菌为里氏木霉（MK257811），且最优发酵条件为混菌（纤维素降解菌：木质素降解菌）比例3 ∶ 2，接种量12.5 g/100 g、含水量70%、初始pH值6.0，最适温度为26 ℃。【结论】混菌发酵具有极高的可行性及降解能力，两种菌在共同作用时，可显著提高芒果废弃物降解能力。"
+abstract = "**[Objective]** In order to solve the serious waste of fruit resources， but also provide new resources for agricultural develop-ment and make mango waste can be fully resourced.**[Method]** A strain L-1 with the ability to efficiently degrade cellulose was selected from the mango waste by selected medium. The optimal conditions of cellulose degradation rate and saccharification rate in mango waste under the joint action of Ligninolytic bacteria (MF687854) are determined by single factor and orthogonal experiments. At the same time， we analyzed the protein content and amino acid composition of the fermentation products. **[Result]** Strain morphology characterization and ITS rDNA se-quence analysis is identified as Trichoderma reesei (MK257811). The optimal fermentation conditions: mixed bacterium (Cellulose degrading bacteria: Ligninolytic bacteria) ratio is 3:2， inoculation amount is 12.5 g/100 g， the water content is 70%， initial pH value was 6.0， and the optimum temperature was 26℃.**[Conclusion]** Mixed bacteria fermentation has extremely high feasibility and degradability. Trichoderma reesei significantly improved the degradation ability of mango waste and balance the amino acid composition of the fermentation substrate when it interacts with Lentinus edodes."
 
 # Summary. An optional shortened abstract.
 #summary = "China-Europe International Symposium on Software Engineering Education(CEISEE), Shenzhen · China"
@@ -35,7 +35,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-#tags = ["Source Themes"]
+tags = ["mango waste","screening","identification","mixed fermentation"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
