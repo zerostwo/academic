@@ -1,9 +1,9 @@
 +++
-title = "Preparation and characterization of Konjac glucomannan and pullulan composite films for strawberry preservation"
+title = "The purification, structural characterization and antidiabetic activity of a polysaccharide from Anoectochilus roxburghii"
 date = 2020-06-14T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yansu Yan", "Songqi Duan","Huilan Zhang","Yuntao Liu","Cheng Li","Bin Hu","Aiping Liu","Dingtao Wu","Jialiang He","Wenjuan Wu"]
+authors = ["Yuntao Liu", "Tingting Tang","Songqi Duan","Cheng Li","Qinlu Lin","Hejun Wu","Aiping Liu","Bin Hu","Dingtao Wu","Suqing Li","Li Shen","Wenjuan Wu"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -18,20 +18,20 @@ authors = ["Yansu Yan", "Songqi Duan","Huilan Zhang","Yuntao Liu","Cheng Li","Bi
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Carbohydrate Polymers"
-publication_short = "Carbohydr Polym"
+publication = "Food & Function"
+publication_short = "Food Funct"
 
 # Abstract.
-abstract = "The present study aims to develop the new composite films by blending Konjac glucomannan (KGM) and pullulan with different ratios and concentrations. The structural, physical, barrier properties and morphology of the films were investigated and the practical use on strawberry preservation at 4 +/- 1 degrees C, 85 %+/-5% relative humidity (RH) and 25 +/- 1 degrees C, 55 %+/-5% RH was evaluated. Fourier transform infrared and scanning electron microscopy indicated the well-dispersion of film matrix was due to the good compatibility of the components. The mechanical and barrier properties of blend films were markedly enhanced although the light transmittance of which were decreased slightly. It was a further proof that 1% (w/v) KGM/pullulan (with the mass ratio of 2:1) blend film could decrease the weight loss significantly and maintain the titratable acidity, soluble solids and skin color on the strawberry preservation, thus improving the qualities of strawberries during storage time and offering a potential alternative to synthetic materials."
+abstract = "Anoectochilus roxburghii, a traditional Chinese medicinal herb, has been widely used for treating numerous chronic diseases. In this study, a polysaccharide from A. roxburghii (ARPs-p) was purified by anion exchange and size exclusion chromatography. The structural characteristics of ARPs-p were systematically investigated for the first time via numerous chromatographic techniques, periodic acid oxidation, Smith degradation, methylation analysis, FTIR spectroscopy and 1D/2D NMR spectroscopy. The results showed that ARPs-p is a heteropolysaccharide with a molecular weight of 97 kDa; it consists of 97.75% glucose, 1.2% galactose and trace amounts of galacturonic acid, and its backbone structure is composed of -->3)-beta-d-Glcp-(1--> with some branching points at O-6 linked to non-reducing end units or 6-O-linked Glcp units. Furthermore, streptozotocin (STZ)-induced diabetic mouse experiments suggested that ARPs-p has excellent antihyperglycemic, antioxidant and antihyperlipidemic activities, in which 1,3-beta-d-glucan, the main component of ARPs-p, plays a vital role."
 
 # Summary. An optional shortened abstract.
 #summary = "China-Europe International Symposium on Software Engineering Education(CEISEE), Shenzhen · China"
 
 # Digital Object Identifier (DOI)
-doi = "10.1016/j.carbpol.2020.116446"
+doi = "10.1039/c9fo00860h"
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -54,7 +54,7 @@ featured = true
 #slides = "example"
 
 # Links (optional).
-url_pdf = "https://files.zzmath.top/Liu-2020-Preparation%20and%20characterization%20of%20c.pdf"
+url_pdf = "https://files.zzmath.top/Liu-2020-The%20purification%2C%20structural%20characte.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = ""
@@ -77,5 +77,4 @@ url_pdf = "https://files.zzmath.top/Liu-2020-Preparation%20and%20characterizatio
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 #  focal_point = ""
 +++
-
 
