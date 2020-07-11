@@ -69,7 +69,7 @@ url_pdf = "https://files.zzmath.top/Liu-2020-Preparation%20and%20characterizatio
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#[image]
+[image]
   # Caption (optional)
   caption = "Image credit: [**Elsevier**](https://www.sciencedirect.com/science/article/abs/pii/S0144861720306202?via%3Dihub)"
 
