@@ -70,12 +70,12 @@ url_pdf = "https://files.zzmath.top/Liu-2020-Preparation%20and%20characterizatio
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 #[image]
-#  # Caption (optional)
-#  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-#
-#  # Focal point (optional)
-#  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-#  focal_point = ""
+  # Caption (optional)
+  caption = "Image credit: [**Elsevier**](https://www.sciencedirect.com/science/article/abs/pii/S0144861720306202?via%3Dihub)"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Right"
 +++
 
 

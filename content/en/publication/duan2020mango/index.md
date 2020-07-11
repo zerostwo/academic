@@ -69,12 +69,12 @@ url_pdf = "https://files.zzmath.top/%E8%8A%92%E6%9E%9C%E5%BA%9F%E5%BC%83%E7%89%A
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#[image]
-#  # Caption (optional)
-#  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-#
-#  # Focal point (optional)
-#  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-#  focal_point = ""
+[image]
+  # Caption (optional)
+  caption = "Image credit: [**CNKI**](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.16036/j.issn.1000-2650.2020.03.009)"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Right"
 +++
 
