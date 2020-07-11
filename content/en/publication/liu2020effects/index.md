@@ -69,12 +69,12 @@ url_pdf = "https://files.zzmath.top/Liu-2020-Effects%20of%20in%20vitro%20digesti
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#[image]
+[image]
 #  # Caption (optional)
-#  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-#
-#  # Focal point (optional)
-#  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-#  focal_point = ""
+  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Right"
 +++
 
