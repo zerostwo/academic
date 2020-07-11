@@ -69,7 +69,7 @@ url_pdf = "https://files.zzmath.top/Liu-2020-The%20purification%2C%20structural%
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#[image]
+[image]
   # Caption (optional)
   caption = "Image credit: [**Royal Society of Chemistry**](https://pubs.rsc.org/en/content/articlelanding/2020/FO/C9FO00860H)"
 
