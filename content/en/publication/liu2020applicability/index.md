@@ -69,12 +69,12 @@ url_pdf = "https://files.zzmath.top/Liu-2020-Applicability%20of%20Rice%20Doughs%
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#[image]
-#  # Caption (optional)
-#  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-#
-#  # Focal point (optional)
-#  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-#  focal_point = ""
+[image]
+  # Caption (optional)
+  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Right"
 +++
 
