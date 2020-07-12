@@ -3,7 +3,7 @@ title = "Preparation and characterization of Konjac glucomannan and pullulan com
 date = 2020-06-14T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yansu Yan", "admin","Huilan Zhang","yuntao-liu","Cheng Li","Bin Hu","Aiping Liu","Dingtao Wu","Jialiang He","Wenjuan Wu"]
+authors = ["Yansu Yan", "admin","Huilan Zhang","Yuntao Liu","Cheng Li","Bin Hu","Aiping Liu","Dingtao Wu","Jialiang He","Wenjuan Wu"]
 
 author_notes = ["Equal contribution", "Equal contribution", "Equal contribution"]
 # Publication type.
