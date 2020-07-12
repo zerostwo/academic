@@ -3,7 +3,9 @@ title = "Effects of sodium alginate and rice variety on the physicochemical char
 date = 2020-03-30T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yuntao Liu","Tingting Tang","Songqi Duan","Zhizhi Qin","Cheng Li","Zhiqing Zhang","Aiping Liu","Dingtao Wu","Guoquan Han","Bokun Lin","Jialiang He","Wenjuan Wu"]
+authors = ["Yuntao Liu","Tingting Tang","admin","Zhizhi Qin","Cheng Li","Zhiqing Zhang","Aiping Liu","Dingtao Wu","Guoquan Han","Bokun Lin","Jialiang He","Wenjuan Wu"]
+author_notes = ["Equal contribution", "Equal contribution", "Equal contribution"]
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized

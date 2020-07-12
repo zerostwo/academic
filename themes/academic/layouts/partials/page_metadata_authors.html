@@ -16,7 +16,7 @@
     </span>
     {{- if isset $.Params "author_notes" -}}
       {{- with (index $.Params.author_notes $index) -}}
-        <span title="{{.}}" class="author-notes">(?)</span>
+        <span title="{{.}}" class="author-notes">1</span>
       {{- end -}}
     {{- end -}}
   {{- end -}}

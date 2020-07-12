@@ -3,7 +3,9 @@ title = "Preparation and characterization of chitosan films with three kinds of 
 date = 2020-04-25T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yuntao Liu", "Yuan Yuan","Songqi Duan","Cheng Li","Bin Hu","Aiping Liu","Dingtao Wu","Haiying Cui","Lin Lin","Jialiang He","Wenjuan Wu"]
+authors = ["Yuntao Liu", "Yuan Yuan","admin","Cheng Li","Bin Hu","Aiping Liu","Dingtao Wu","Haiying Cui","Lin Lin","Jialiang He","Wenjuan Wu"]
+author_notes = ["Equal contribution", "Equal contribution", "Equal contribution"]
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized

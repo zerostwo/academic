@@ -3,7 +3,8 @@ title = "Applicability of Rice Doughs as Promising Food Materials in Extrusion-B
 date = 2020-01-30T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yuntao Liu", "Tingting Tang","Songqi Duan","Zhizhi Qin","Hui Zhao","Meiyan Wang","Cheng Li","Zhiqing Zhang","Aiping Liu","Guoquan Han","Dingtao Wu","Hong Chen","Li Shen","Wenjuan Wu","Yuping Dong"]
+authors = ["Yuntao Liu", "Tingting Tang","admin","Zhizhi Qin","Hui Zhao","Meiyan Wang","Cheng Li","Zhiqing Zhang","Aiping Liu","Guoquan Han","Dingtao Wu","Hong Chen","Li Shen","Wenjuan Wu","Yuping Dong"]
+author_notes = ["Equal contribution", "Equal contribution", "Equal contribution"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized

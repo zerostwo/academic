@@ -3,7 +3,8 @@ title = "Effects of in vitro digestion and fecal fermentation on stability and m
 date = 2020-06-26T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yuntao Liu", "Xiaoyu Duan","Songqi Duan","Cheng Li","Bin Hu","Aiping Liu","Yinglong Wu","Hejun Wu","Hong Chen","Wenjuan Wu"]
+authors = ["Yuntao Liu", "Xiaoyu Duan","admin","Cheng Li","Bin Hu","Aiping Liu","Yinglong Wu","Hejun Wu","Hong Chen","Wenjuan Wu"]
+author_notes = ["Equal contribution", "Equal contribution", "Equal contribution"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized

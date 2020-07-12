@@ -3,7 +3,8 @@ title = "The purification, structural characterization and antidiabetic activity
 date = 2020-06-14T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yuntao Liu", "Tingting Tang","Songqi Duan","Cheng Li","Qinlu Lin","Hejun Wu","Aiping Liu","Bin Hu","Dingtao Wu","Suqing Li","Li Shen","Wenjuan Wu"]
+authors = ["Yuntao Liu", "Tingting Tang","admin","Cheng Li","Qinlu Lin","Hejun Wu","Aiping Liu","Bin Hu","Dingtao Wu","Suqing Li","Li Shen","Wenjuan Wu"]
+author_notes = ["Equal contribution", "Equal contribution", "Equal contribution"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
