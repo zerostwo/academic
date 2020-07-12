@@ -3,7 +3,7 @@ title = "Screening of Mango Waste Degrading Bacteria and Optimization of Ferment
 date = 2020-01-06T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Xiaoyu Duan", "Songqi Duan","Huilan Zhang","Cheng Li","Aiping Liu","Wenjiu Yang","Yuping Dong","Yuntao Liu"]
+authors = ["Xiaoyu Duan", "admin","Huilan Zhang","Cheng Li","Aiping Liu","Wenjiu Yang","Yuping Dong","Yuntao Liu"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
