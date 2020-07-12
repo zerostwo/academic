@@ -8,6 +8,12 @@ tags:
 - Fermentation
 - Gut Microbiota
 date: "2019-03-28T00:00:00Z"
+authors:
+- admin
+- Rengshu Li
+author_notes:
+- Hoster
+
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -48,9 +54,9 @@ image:
 
 [^2]:	Liu Y T, Sun J, Luo Z Y, et al. Chemical composition of five wild edible mushrooms collected from Southwest China and their antihyperglycemic and antioxidant activity[J]. *Food and Chemical Toxicology*, 2012, 50(5): 1238-1244.
 
-[^3]:	Yang W W, Wang L M, Gong L L, et al. Structural characterization and antioxidant activities of a novel polysaccharide fraction from the fruiting bodies of Craterellus cornucopioides[J]. *International journal of biological macromolecules*, 2018, 117: 473-482.
+[^3]:	Yang W W, Wang L M, Gong L L, et al. Structural characterization and antioxidant activities of a novel polysaccharide fraction from the fruiting bodies of *Craterellus cornucopioides*[J]. *International journal of biological macromolecules*, 2018, 117: 473-482.
 
-[^4]:	Guo M Z, Meng M, Duan S Q, et al. Structure characterization, physicochemical property and immunomodulatory activity on RAW264. 7 cells of a novel triple-helix polysaccharide from Craterellus cornucopioides[J]. *International journal of biological macromolecules*, 2019, 126: 796-804.
+[^4]:	Guo M Z, Meng M, Duan S Q, et al. Structure characterization, physicochemical property and immunomodulatory activity on RAW264. 7 cells of a novel triple-helix polysaccharide from *Craterellus cornucopioides*[J]. *International journal of biological macromolecules*, 2019, 126: 796-804.
 
 [^5]:	Xu X, Xu P, Ma C, et al. Gut microbiota, host health, and polysaccharides[J]. *Biotechnology advances*, 2013, 31(2): 318-337.
 
@@ -62,4 +68,4 @@ image:
 
 [^9]:	Minekus M, Alminger M, Alvito P, et al. A standardised static in vitro digestion method suitable for food–an international consensus[J]. *Food & function*, 2014, 5(6): 1113-1124.
 
-[^10]:	Castro-Bravo N, Wells J M, Margolles A, et al. Interactions of surface exopolysaccharides from Bifidobacterium and Lactobacillus within the intestinal environment[J]. *Frontiers in microbiology*, 2018, 9.
+[^10]:	Castro-Bravo N, Wells J M, Margolles A, et al. Interactions of surface exopolysaccharides from *Bifidobacterium* and *Lactobacillus* within the intestinal environment[J]. *Frontiers in microbiology*, 2018, 9.
