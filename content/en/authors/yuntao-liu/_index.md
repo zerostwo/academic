@@ -7,7 +7,7 @@ organizations:
     url: https://english.sicau.edu.cn/
 superuser: false
 authors:
-  - Yuntao Liu
+  - yuntao-liu
 bio: Molecular structure and biological characteristics of polysaccharides.
 # interests:
 #   - Bioinformatics Analysis
@@ -17,19 +17,19 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Yuntao_Liu2
-education:
-  courses:
-    - course: B.S. in Biotechnology
-      institution: Hunan Agricultural University
-      year: 2001.09 - 2005.06
-  courses:
-    - course: M.S. in Biochemistry and Molecular
-      institution: Shantou University
-      year: 2006.09 - 2009.06  
-  courses:
-    - course: D.E. in Food Science
-      institution: Jiangnan University
-      year: 2010.09 - 2014.06  
+# education:
+#   courses:
+#     - course: B.S. in Biotechnology
+#       institution: Hunan Agricultural University
+#       year: 2001.09 - 2005.06
+#   courses:
+#     - course: M.S. in Biochemistry and Molecular
+#       institution: Shantou University
+#       year: 2006.09 - 2009.06  
+#   courses:
+#     - course: D.E. in Food Science
+#       institution: Jiangnan University
+#       year: 2010.09 - 2014.06  
 email: liuyt@sicau.edu.cn
 user_groups:
   - Researchers
