@@ -1,6 +1,8 @@
 ---
 title: Zzmath
 summary: The ranking information site for the content related to the college entrance examination in the Zhihu column.
+authors:
+- admin
 # tags:
 # - 
 date: "2020-02-28T00:00:00Z"
