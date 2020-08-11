@@ -15,7 +15,7 @@ interests:
   - Schnauzer
 social:
   - icon: researchgate
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.researchgate.net/profile/Songqi_Duan
   - icon: google-scholar
     icon_pack: ai
