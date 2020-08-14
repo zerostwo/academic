@@ -23,9 +23,12 @@
     Published with
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic Website Builder</a>
     {{ end }} -->
-    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
-    <img style="width: 16px;vertical-align: sub;" src="../../../../static/filing.png">
-            <a href="http://www.beian.miit.gov.cn" style="color: #404040">蜀ICP备18027889号-2</a>
+    {{ with site.Copyright }}
+    {{ replace . "{year}" now.Year | markdownify}}
+    <img style="width: 1rem;" src="https://zzmath.top/static/filing.png"><a href="http://www.beian.miit.gov.cn" style="color: #404040">蜀ICP备18027889号-2</a>
+    {{ end }}
+    
+
     {{ if not (in (slice "book" "docs" "updates") .Type) }}
     <span class="float-right" aria-hidden="true">
       <a href="#" class="back-to-top">
