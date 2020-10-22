@@ -1,5 +1,7 @@
-[module]
-  [module.hugoVersion]
-    # This version of Academic is compatible with the following Hugo versions:
-    min = "0.73.0"
-    extended = true
+# Wowchemy Website Builder
+# https://wowchemy.com
+#
+# The presence of this file is for compatibility with Blogdown and Forestry.
+# If you are not using those tools, this file may be deleted.
+#
+# The actual configuration files are stored in the `config/_default/` folder.
